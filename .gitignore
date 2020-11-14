@@ -1,0 +1,10 @@
+# This is a .gitignore comment
+# Helpful links:
+# https://docs.github.com/en/free-pro-team@latest/github/using-git/ignoring-files
+# https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/#:~:text=gitignore%20file%20is%20a%20text,can%20also%20create%20a%20global%20.
+
+# Ignore node_modules, because we don't want thousands of files uploaded (that don't work on other systems anyway):
+node_modules
+
+# Ignore config.json, because we don't want our private token uploaded onto a public git repository:
+config.json
