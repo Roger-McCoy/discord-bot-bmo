@@ -21,9 +21,4 @@ It's not a typical user readme file.
 
 
 
-For the music command, you will need to enter this in terminal:
-npm install --save ytdl-core opusscript
-
-music.js
-&
-play.js, skip.js, & stop.js are incomplete attempts at converting the music bot functionality into separate modules.
+music.js, play.js, skip.js, & stop.js are incomplete attempts at converting the music bot functionality into separate modules.
