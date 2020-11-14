@@ -17,7 +17,7 @@ It's not a typical user readme file.
 // npm install --save ytdl-core opusscript // Installs modules/packages for the music player.
 // After setting this stuff up, we created our main.js file.
 
-// node . // To turn bot on in cmd in that folder.
+// node . // To turn bot on in cmd in that folder (the root directory of the project).
 
 
 
