@@ -1,4 +1,4 @@
-This file contains various notes I've made during creation and upkeep of this bot.
+This file contains various notes I've made during the creation and upkeep of this bot.
 It's not a typical user readme file.
 
 // ---- Roger McCoy. 
