@@ -4,7 +4,7 @@ It's not a typical user readme file.
 // ---- Roger McCoy. 
 // ---- Updated older code for Discord.js v12 - 10/21/2020
 // ---- Updated packages & ytdl-core for 3.4.2 ("npm list ytdl-core" to check version in terminal, or "npm update" to update all packages!) - 11/13/2020
-// ---- Added a config and gitignore file to hide the private token before uploading to git - 11/14/2020
+// ---- Added a config.json file (not in the remote repository) and a .gitignore file to hide the private token before uploading to git - 11/14/2020
 // ---- In process of converting play/skip/stop from lengthy if else statements into their own individual modules (js files).
 // ---- Main.js starting handler skeleton, Ping.js, and part of play/skip/stop functionality are adapted from CodeLyon's various Youtube tutorial series. 
 // ---- Other commands, like and GamePicker.js and Help.js, are original creations.
